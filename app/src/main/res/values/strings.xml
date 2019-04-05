@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kotlin Intro Completed</string>
+    <string name="basics">Basics</string>
+    <string name="theThings">Kotlin Intro - Lets do the things!</string>
+    <string name="null_safety">Null Safety</string>
+    <string name="when_statements">When Statements</string>
+    <string name="lambdas">Lambdas</string>
+    <string name="go">Go</string>
+    <string name="enter_a_month_number">Enter a Month Number</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="calculate">Calculate</string>
+    <string name="height_inches">Height (Inches)</string>
+    <string name="weight_ibs">Weight(Ibs)</string>
+    <string name="dice_roll">Dice Roll</string>
+</resources>
